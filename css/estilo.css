@@ -1,0 +1,28 @@
+#input_senha,
+#icon_prefix {
+	width: 400px;
+}
+
+.card-panel {
+	margin-left: 20% !important;
+	margin-top: 100px;
+	border-radius: 10px;
+	width: 400px;
+	padding: 15px;
+}
+
+.titulo {
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+body {
+	background-color: #e0e0e0;
+}
+.w-75{
+	width: 75% !important;
+}
+
+.brand-logo img {
+  width: 170px;
+}

@@ -1,0 +1,50 @@
+.mt-5 {
+  margin-top: 5rem !important;
+}
+.my-3 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.d-flex {
+  display: flex !important;
+}
+.d-none {
+  display: none !important;
+}
+.img-fluid {
+  max-width: 100%;
+  display: block;
+}
+
+.m-auto{
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.ml-auto{
+  margin-left: auto !important;
+}
+.mr-auto{
+  margin-right: auto !important;
+}
+
+.trocaImagem {
+  cursor: pointer;
+}
+
+.trocaImagem:hover {
+  color: #e91e63 !important;
+}
+
+.brand-logo img {
+  width: 170px;
+}
+
+#calendar {
+  max-width: 800px;
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
